@@ -39,8 +39,8 @@ A modern, responsive developer portfolio built with React. Showcases projects, s
 - Add or update projects, skills, and contact info as needed.
 
 ## Contact
-For queries, use the Contact page on the site or email: your.email@example.com
+For queries, use the Contact page on the site or email: saindeepansh@gmail.com
 
 ---
 
-© 2024 Deepanshu Saini. All rights reserved. 
+© 2025 Deepanshu Saini. All rights reserved. 
